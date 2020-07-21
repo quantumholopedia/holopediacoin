@@ -1,10 +1,10 @@
-![image](https://user-images.githubusercontent.com/34389545/35821974-62e0e25c-0a70-11e8-87dd-2cfffeb6ed47.png)
+![image](http://holopedia.eu/assets/images/coin/HP_Holopedia.png)
 
-#### TurtleCoin is a fun, fast, and easy way to send money to friends and businesses
+#### HolopediaCoin is a fun, fast, and easy way to send money to friends and businesses
 
 [![Discord](https://img.shields.io/discord/388915017187328002?label=TurtleCoin%20Discord)](http://chat.turtlecoin.lol) [![GitHub All Releases](https://img.shields.io/github/downloads/turtlecoin/turtlecoin/total?label=Downloads)](http://latest.turtlecoin.lol) [![GitHub contributors](https://img.shields.io/github/contributors-anon/turtlecoin/turtlecoin?label=Contributors)](https://github.com/turtlecoin/turtlecoin/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/turtlecoin/turtlecoin?label=Issues)](https://github.com/turtlecoin/turtlecoin/issues) ![GitHub stars](https://img.shields.io/github/stars/turtlecoin/turtlecoin?label=Github%20Stars)
 
-### Contributing to TurtleCoin
+### Contributing to HolopediaCoin
 
 We are a community of people across the world giving our time to make this software better. There are many ways you can help or join us:
 
@@ -16,14 +16,14 @@ We are a community of people across the world giving our time to make this softw
 
 For anyone else wishing to help the community or who needs answers to questions not covered in this document, join us in our [Discord Chat](http://chat.turtlecoin.lol) here.
 
-### TurtleCoin Build Branches
+### HolopediaCoin Build Branches
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/turtlecoin/turtlecoin/Build/master) **Master**
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/turtlecoin/turtlecoin/Build/development) **Development**
 
-### Installing TurtleCoin
+### Installing HolopediaCoin
 
-To use TurtleCoin, you'll need a way to connect to the network, and a wallet to hold your funds. This software includes those things for you, you can compile it yourself, or you can download the ones that we have compiled for you.
+To use HolopediaCoin, you'll need a way to connect to the network, and a wallet to hold your funds. This software includes those things for you, you can compile it yourself, or you can download the ones that we have compiled for you.
 
 **Click here to download: http://latest.turtlecoin.lol**
 
